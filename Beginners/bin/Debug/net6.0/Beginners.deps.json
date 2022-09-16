@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Beginners_1/1.0.0": {
+      "Beginners/1.0.0": {
         "runtime": {
-          "Beginners_1.dll": {}
+          "Beginners.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Beginners_1/1.0.0": {
+    "Beginners/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

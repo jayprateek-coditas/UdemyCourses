@@ -1,0 +1,15 @@
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.csproj.AssemblyReference.cache
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.AssemblyInfoInputs.cache
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.AssemblyInfo.cs
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.csproj.CoreCompileInputs.cache
+C:\Udemy-C#\Beginners\bin\Debug\net6.0\Beginners.exe
+C:\Udemy-C#\Beginners\bin\Debug\net6.0\Beginners.deps.json
+C:\Udemy-C#\Beginners\bin\Debug\net6.0\Beginners.runtimeconfig.json
+C:\Udemy-C#\Beginners\bin\Debug\net6.0\Beginners.dll
+C:\Udemy-C#\Beginners\bin\Debug\net6.0\Beginners.pdb
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.dll
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\refint\Beginners.dll
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.pdb
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\Beginners.genruntimeconfig.cache
+C:\Udemy-C#\Beginners\obj\Debug\net6.0\ref\Beginners.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Udemy-Course\\Beginners_1\\Beginners_1\\Beginners_1.csproj",
-      "projectName": "Beginners_1",
-      "projectPath": "C:\\Udemy-Course\\Beginners_1\\Beginners_1\\Beginners_1.csproj",
+      "projectUniqueName": "C:\\Udemy-C#\\Beginners\\Beginners.csproj",
+      "projectName": "Beginners",
+      "projectPath": "C:\\Udemy-C#\\Beginners\\Beginners.csproj",
       "packagesPath": "C:\\Users\\coditas\\.nuget\\packages\\",
-      "outputPath": "C:\\Udemy-Course\\Beginners_1\\Beginners_1\\obj\\",
+      "outputPath": "C:\\Udemy-C#\\Beginners\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\coditas\\AppData\\Roaming\\NuGet\\NuGet.Config",

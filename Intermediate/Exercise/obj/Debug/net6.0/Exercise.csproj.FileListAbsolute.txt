@@ -1,0 +1,15 @@
+C:\Udemy-Course_1\Intermediate\Exercise\bin\Debug\net6.0\Exercise.exe
+C:\Udemy-Course_1\Intermediate\Exercise\bin\Debug\net6.0\Exercise.deps.json
+C:\Udemy-Course_1\Intermediate\Exercise\bin\Debug\net6.0\Exercise.runtimeconfig.json
+C:\Udemy-Course_1\Intermediate\Exercise\bin\Debug\net6.0\Exercise.dll
+C:\Udemy-Course_1\Intermediate\Exercise\bin\Debug\net6.0\Exercise.pdb
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.dll
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\refint\Exercise.dll
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.pdb
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+C:\Udemy-Course_1\Intermediate\Exercise\obj\Debug\net6.0\ref\Exercise.dll

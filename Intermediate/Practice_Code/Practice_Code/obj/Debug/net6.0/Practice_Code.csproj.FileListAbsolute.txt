@@ -1,0 +1,15 @@
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\bin\Debug\net6.0\Practice_Code.exe
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\bin\Debug\net6.0\Practice_Code.deps.json
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\bin\Debug\net6.0\Practice_Code.runtimeconfig.json
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\bin\Debug\net6.0\Practice_Code.dll
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\bin\Debug\net6.0\Practice_Code.pdb
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.csproj.AssemblyReference.cache
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.AssemblyInfoInputs.cache
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.AssemblyInfo.cs
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.csproj.CoreCompileInputs.cache
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.dll
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\refint\Practice_Code.dll
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.pdb
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\Practice_Code.genruntimeconfig.cache
+C:\Udemy-Course_1\Intermediate\Practice_Code\Practice_Code\obj\Debug\net6.0\ref\Practice_Code.dll
